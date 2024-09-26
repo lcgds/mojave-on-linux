@@ -26,13 +26,13 @@ Follow these steps to install:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/lcgds/mojave-on-linux.git
+git clone "https://github.com/lcgds/mojave-on-linux.git"
 ```
 
 2. Copy the Mojave files to your system:
 
 ```bash
-sudo cp -r Mojave/ /usr/share/backgrounds/ && sudo cp Mojave.xml /usr/share/gnome-background-properties/
+sudo cp -r "mojave-on-linux/Mojave/" "/usr/share/backgrounds/" && sudo cp "mojave-on-linux/Mojave.xml" "/usr/share/gnome-background-properties/"
 ```
 
 > :information_source: Notice \
@@ -47,7 +47,7 @@ To uninstall, do the following:
 1. Delete the Mojave folder from your system:
 
 ```bash
-sudo rm -r "/usr/share/backgrounds/Mojave/" && sudo rm /usr/share/gnome-background-properties/Mojave.xml
+sudo rm -r "/usr/share/backgrounds/Mojave/" && sudo rm "/usr/share/gnome-background-properties/Mojave.xml"
 ```
 
 ## Credits
