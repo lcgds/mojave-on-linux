@@ -1,0 +1,221 @@
+<background>
+  <starttime>
+    <year>2024</year>
+    <month>09</month>
+    <day>25</day>
+    <hour>0</hour>
+    <minute>00</minute>
+    <second>00</second>
+  </starttime>
+
+  <!-- This animation will start at 00:00. -->
+
+  <!-- It's 00:00. It'll stay with the '00_00.jpg' wallpaper for 30 minutes up until 00:30. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/00_00.jpg</file>
+  </static>
+
+  <!-- It's 00:30. We'll start transitioning to the '01_30.jpg' wallpaper for 1 hour up until 01:30. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/00_00.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/01_30.jpg</to>
+  </transition>
+
+  <!-- It's 01:30. It'll stay with the '01_30.jpg' wallpaper for 30 minutes up until 02:00. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/01_30.jpg</file>
+  </static>
+
+  <!-- It's 02:00. We'll start transitioning to the '03_00.jpg' wallpaper for 1 hour up until 03:00. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/01_30.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/03_00.jpg</to>
+  </transition>
+
+  <!-- It's 03:00. It'll stay with the '03_00.jpg' wallpaper for 30 minutes up until 03:30. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/03_00.jpg</file>
+  </static>
+
+  <!-- It's 03:30. We'll start transitioning to the '04_30.jpg' wallpaper for 1 hour up until 04:30. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/03_00.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/04_30.jpg</to>
+  </transition>
+
+  <!-- It's 04:30. It'll stay with the '04_30.jpg' wallpaper for 30 minutes up until 05:00. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/04_30.jpg</file>
+  </static>
+
+  <!-- It's 05:00. We'll start transitioning to the '06_00.jpg' wallpaper for 1 hour up until 06:00. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/04_30.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/06_00.jpg</to>
+  </transition>
+
+  <!-- It's 06:00. It'll stay with the '06_00.jpg' wallpaper for 30 minutes up until 06:30. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/06_00.jpg</file>
+  </static>
+
+  <!-- It's 06:30. We'll start transitioning to the '07_30.jpg' wallpaper for 1 hour up until 07:30. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/06_00.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/07_30.jpg</to>
+  </transition>
+
+  <!-- It's 07:30. It'll stay with the '07_30.jpg' wallpaper for 30 minutes up until 08:00. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/07_30.jpg</file>
+  </static>
+
+  <!-- It's 08:00. We'll start transitioning to the '09_00.jpg' wallpaper for 1 hour up until 09:00. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/07_30.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/09_00.jpg</to>
+  </transition>
+
+  <!-- It's 09:00. It'll stay with the '09_00.jpg' wallpaper for 30 minutes up until 09:30. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/09_00.jpg</file>
+  </static>
+
+  <!-- It's 09:30. We'll start transitioning to the '10_30.jpg' wallpaper for 1 hour up until 10:30. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/09_00.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/10_30.jpg</to>
+  </transition>
+
+  <!-- It's 10:30. It'll stay with the '10_30.jpg' wallpaper for 30 minutes up until 11:00. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/10_30.jpg</file>
+  </static>
+
+  <!-- It's 11:00. We'll start transitioning to the '12_00.jpg' wallpaper for 1 hour up until 12:00. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/10_30.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/12_00.jpg</to>
+  </transition>
+
+  <!-- It's 12:00. It'll stay with the '12_00.jpg' wallpaper for 30 minutes up until 12:30. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/12_00.jpg</file>
+  </static>
+
+  <!-- It's 12:30. We'll start transitioning to the '13_30.jpg' wallpaper for 1 hour up until 13:30. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/12_00.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/13_30.jpg</to>
+  </transition>
+
+  <!-- It's 13:30. It'll stay with the '13_30.jpg' wallpaper for 30 minutes up until 14:00. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/13_30.jpg</file>
+  </static>
+
+  <!-- It's 14:00. We'll start transitioning to the '15_00.jpg' wallpaper for 1 hour up until 15:00. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/13_30.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/15_00.jpg</to>
+  </transition>
+
+  <!-- It's 15:00. It'll stay with the '15_00.jpg' wallpaper for 30 minutes up until 15:30. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/15_00.jpg</file>
+  </static>
+
+  <!-- It's 15:30. We'll start transitioning to the '16_30.jpg' wallpaper for 1 hour up until 16:30. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/15_00.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/16_30.jpg</to>
+  </transition>
+
+  <!-- It's 16:30. It'll stay with the '16_30.jpg' wallpaper for 30 minutes up until 17:00. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/16_30.jpg</file>
+  </static>
+
+  <!-- It's 17:00. We'll start transitioning to the '18_00.jpg' wallpaper for 1 hour up until 18:00. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/16_30.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/18_00.jpg</to>
+  </transition>
+
+  <!-- It's 18:00. It'll stay with the '18_00.jpg' wallpaper for 30 minutes up until 18:30. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/18_00.jpg</file>
+  </static>
+
+  <!-- It's 18:30. We'll start transitioning to the '19_30.jpg' wallpaper for 1 hour up until 19:30. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/18_00.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/19_30.jpg</to>
+  </transition>
+
+  <!-- It's 19:30. It'll stay with the '19_30.jpg' wallpaper for 30 minutes up until 20:00. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/19_30.jpg</file>
+  </static>
+
+  <!-- It's 20:00. We'll start transitioning to the '21_00.jpg' wallpaper for 1 hour up until 21:00. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/19_30.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/21_00.jpg</to>
+  </transition>
+
+  <!-- It's 21:00. It'll stay with the '21_00.jpg' wallpaper for 30 minutes up until 21:30. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/21_00.jpg</file>
+  </static>
+
+  <!-- It's 21:30. We'll start transitioning to the '22_30.jpg' wallpaper for 1 hour up until 22:30. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/21_00.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/22_30.jpg</to>
+  </transition>
+
+  <!-- It's 22:30. It'll stay with the '22_30.jpg' wallpaper for 30 minutes up until 23:00. -->
+  <static>
+    <duration>1800.0</duration>
+    <file>/usr/share/backgrounds/Mojave/22_30.jpg</file>
+  </static>
+
+  <!-- It's 23:00. We'll start transitioning to the '00_00.jpg' wallpaper for 1 hour up until 00:00. -->
+  <transition type="overlay">
+    <duration>3600.0</duration>
+    <from>/usr/share/backgrounds/Mojave/22_30.jpg</from>
+    <to>/usr/share/backgrounds/Mojave/00_00.jpg</to>
+  </transition>
+
+</background>
